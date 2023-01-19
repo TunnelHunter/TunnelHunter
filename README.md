@@ -5,6 +5,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![Svelte](https://img.shields.io/badge/-Svelte-333333?style=flat&logo=svelte)
 ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
 
 ### ⭐️ &nbsp;Github Star
