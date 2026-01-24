@@ -8,7 +8,7 @@
 ![Svelte](https://img.shields.io/badge/-Svelte-333333?style=flat&logo=svelte)
 ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
 ![Next.js](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=next.js)
-![Nest.js](https://img.shields.io/badge/-Nestjs-333333?style=flat&logo=nest.js)
+![Nest.js](https://img.shields.io/badge/-Nestjs-333333?style=flat&logo=nestjs)
 
 ### ⭐️ &nbsp;Github Star
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TunnelHunter)](https://github.com/anuraghazra/github-readme-stats)
