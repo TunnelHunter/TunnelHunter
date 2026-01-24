@@ -7,6 +7,7 @@
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Svelte](https://img.shields.io/badge/-Svelte-333333?style=flat&logo=svelte)
 ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
+![Next.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=next.js)
 
 ### ⭐️ &nbsp;Github Star
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TunnelHunter)](https://github.com/anuraghazra/github-readme-stats)
