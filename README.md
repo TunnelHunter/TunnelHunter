@@ -11,4 +11,4 @@
 ![Nest.js](https://img.shields.io/badge/-Nestjs-333333?style=flat&logo=nestjs)
 
 ### ⭐️ &nbsp;Github Star
-[![Yboo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TunnelHunter&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Yboo's GitHub stats](https://github-stats-extended.vercel.app/api?username=TunnelHunter&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
