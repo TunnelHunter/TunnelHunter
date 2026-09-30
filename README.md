@@ -33,5 +33,4 @@
 <div align="left">
   <img height="160" src="https://github-stats-extended.vercel.app/api?username=TunnelHunter&show_icons=true&hide_border=true" alt="Yboo's GitHub stats" />
   <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TunnelHunter&layout=compact&hide_border=true" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=TunnelHunter&hide_border=true" alt="GitHub Streak" />
 </div>
