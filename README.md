@@ -7,44 +7,31 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=520&lines=Inspire+creativity%2C+enrich+life.;Front-end+Engineer+%40+ByteDance;JavaScript+%2F+TypeScript+%2F+React+%2F+Vue" alt="Typing SVG" />
 </div>
 
-### 🙋 &nbsp;About Me
-
-- 🏢 &nbsp;Front-end Engineer at **ByteDance Inc.**
-- 📍 &nbsp;Based in Beijing, China
-- 🔭 &nbsp;Focusing on web development and data visualization
-- 💬 &nbsp;Happy to talk about JavaScript / TypeScript / React / Vue / Node.js
-- 📫 &nbsp;Reach me at [yangbocoder@gmail.com](mailto:yangbocoder@gmail.com)
-- ⚡ &nbsp;Motto: *Inspire creativity, enrich life.*
-
 ### 🛠 &nbsp;Tech Stack
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-![Svelte](https://img.shields.io/badge/-Svelte-333333?style=flat&logo=svelte)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 
-**Backend & Runtime**
+**Backend**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)
+![Fastify](https://img.shields.io/badge/-Fastify-333333?style=flat&logo=fastify&logoColor=000000)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi&logoColor=009688)
 
 ### 📊 &nbsp;GitHub Analytics
 
 <div align="center">
   <img height="160" src="https://github-stats-extended.vercel.app/api?username=TunnelHunter&show_icons=true&hide_border=true" alt="Yboo's GitHub stats" />
   <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TunnelHunter&layout=compact&hide_border=true" alt="Top Languages" />
-  <br/>
   <img src="https://streak-stats.demolab.com/?user=TunnelHunter&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TunnelHunter&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
